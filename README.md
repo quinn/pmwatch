@@ -12,3 +12,6 @@ Options:
 ```
 
 watch `PATH` for changes, restart `COMMAND`. Uses inotify, only works on linux. 
+
+## TODO
+* terminate the program if the watched process exits for any reason. 
